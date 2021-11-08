@@ -1,0 +1,13 @@
+2021-11-08 11:51:13,054:96  :__main__     INFO     ==== STARTING:  Digital Media Organizer ======================================================
+2021-11-08 11:51:13,054:97  :__main__     DEBUG    app_name:  dmo
+2021-11-08 11:51:13,055:98  :__main__     DEBUG    app_desc:  Digital Media Organizer - compares two directories M(aster) and T(arget) and makes sure M has everything that T has, so T can be deleted safely.
+2021-11-08 11:51:13,055:99  :__main__     DEBUG    app_conf:  dmo.ini
+2021-11-08 11:51:13,055:100 :__main__     DEBUG    app_log:  dmo.log
+2021-11-08 11:51:13,055:105 :__main__     DEBUG    loading configuration file: dmo.ini
+2021-11-08 11:51:13,059:54  :__main__     INFO     Scanning path: G:\PHOTOS\MASTER Library\2016
+2021-11-08 11:51:13,108:56  :__main__     INFO     	path is a valid directory
+2021-11-08 11:51:18,548:87  :__main__     INFO     	sub execution time = 5 seconds
+2021-11-08 11:51:18,548:54  :__main__     INFO     Scanning path: L:\PHOTOS\MASTER Library\2016
+2021-11-08 11:51:18,548:82  :__main__     CRITICAL 	path is NOT a valid directory
+2021-11-08 11:51:18,549:87  :__main__     INFO     	sub execution time = 0 seconds
+2021-11-08 11:51:18,549:124 :__main__     INFO     main execution time = 5 seconds
